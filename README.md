@@ -47,3 +47,17 @@ Strong Password
 
 ## Author
 Roshan Seerwani
+
+## Screenshots
+
+### Test Case 1 - Rocky
+
+![Test Case 1](test_case_1.png.png)
+
+### Test Case 2 - Rocky@
+
+![Test Case 2](test_case_2.png.png)
+
+### Test Case 3 - Rocky@258
+
+![Test Case 3](test_case_3.png.png)
